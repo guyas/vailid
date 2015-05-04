@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["guyas"]
   spec.email         = ["guy.ashiri@gmail.com"]
   spec.summary       = %q{Validates the correctness of an Israeli id number}
-  spec.description   = %q{Checks the integrity of the 9th figure according to rules. Gem name originates from Valid,IL,id}
+  spec.description   = %q{Checks the integrity of the checksum according to rules. Gem name originates from Valid,IL,id}
   spec.homepage      = ""
   spec.license       = "MIT"
 
