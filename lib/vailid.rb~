@@ -6,7 +6,6 @@ module Vailid
 		
 	def self.valid?(str)
 		return false unless (str != nil)
-		str=str.to_s
 		return false unless (str.length <= LENGTH)
 		while(str.length < LENGTH)
 			str="0".concat(str)
