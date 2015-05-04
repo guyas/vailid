@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-after installing, bla
+after installing, require and then go crazy with "Vailid.valid?(GOCRAZY)", just don't forget to replace the latter with an integer.
 
 ## Contributing
 

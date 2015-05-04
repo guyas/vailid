@@ -1,6 +1,6 @@
 # Vailid
 
-TODO: Write a gem description
+Validates an Israeli id number for length and proper checksum
 
 ## Installation
 
@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-Validates an Israeli id number for length and proper checksum
+after installing, bla
 
 ## Contributing
 
