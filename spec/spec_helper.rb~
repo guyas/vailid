@@ -1,0 +1,7 @@
+require 'bundler/setup'
+Bundler.setup
+
+require 'vailid'
+
+RSpec.configure do |config|
+end
